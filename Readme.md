@@ -118,10 +118,10 @@ The OpenCV implementation successfully detects and classifies shrimp species wit
 
 | Species | Input Image | Detected Output |
 |---------|-------------|-----------------|
-| **Bagda** | ![Input](OpenCV%20Implementation/bagda.jpg) | ![Detected](OpenCV%20Implementation/Detected%20Bagda%20final.jpg) |
-| **Deshi** | ![Input](OpenCV%20Implementation/deshi.jpg) | ![Detected](OpenCV%20Implementation/Detected%20Deshi%20final.jpg) |
-| **Golda** | ![Input](OpenCV%20Implementation/golda.jpg) | ![Detected](OpenCV%20Implementation/Detected%20Golda%20final.jpg) |
-| **Horina** | ![Input](OpenCV%20Implementation/horina.jpg) | ![Detected](OpenCV%20Implementation/Detected%20Horina%20final.jpg) |
+| **Bagda** | <img src="OpenCV Implementation/bagda.jpg" width="300"> | <img src="OpenCV Implementation/Detected Bagda final.jpg" width="300"> |
+| **Deshi** | <img src="OpenCV Implementation/deshi.jpg" width="300"> | <img src="OpenCV Implementation/Detected Deshi final.jpg" width="300"> |
+| **Golda** | <img src="OpenCV Implementation/golda.jpg" width="300"> | <img src="OpenCV Implementation/Detected Golda final.jpg" width="300"> |
+| **Horina** | <img src="OpenCV Implementation/horina.jpg" width="300"> | <img src="OpenCV Implementation/Detected Horina final.jpg" width="300"> |
 
 *The detected images show the system's ability to accurately identify species with bounding boxes and confidence labels.*
 
