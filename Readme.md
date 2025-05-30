@@ -118,10 +118,10 @@ The OpenCV implementation successfully detects and classifies shrimp species wit
 
 | Species | Input Image | Detected Output |
 |---------|-------------|-----------------|
-| **Bagda** | <img src="OpenCV Implementation/bagda.jpg" width="300" height="250"> | <img src="OpenCV Implementation/Detected Bagda final.jpg" width="300" height="250"> |
-| **Deshi** | <img src="OpenCV Implementation/deshi.jpg" width="300" height="250"> | <img src="OpenCV Implementation/Detected Deshi final.jpg" width="300" height="250"> |
-| **Golda** | <img src="OpenCV Implementation/golda.jpg" width="300" height="250"> | <img src="OpenCV Implementation/Detected Golda final.jpg" width="300" height="250"> |
-| **Horina** | <img src="OpenCV Implementation/horina.jpg" width="300" height="250"> | <img src="OpenCV Implementation/Detected Horina final.jpg" width="300" height="250"> |
+| **Bagda** | <img src="OpenCV Implementation/bagda.jpg" width="300" height="200"> | <img src="OpenCV Implementation/Detected Bagda final.jpg" width="300" height="200"> |
+| **Deshi** | <img src="OpenCV Implementation/deshi.jpg" width="300" height="200"> | <img src="OpenCV Implementation/Detected Deshi final.jpg" width="300" height="200"> |
+| **Golda** | <img src="OpenCV Implementation/golda.jpg" width="300" height="200"> | <img src="OpenCV Implementation/Detected Golda final.jpg" width="300" height="200"> |
+| **Horina** | <img src="OpenCV Implementation/horina.jpg" width="300" height="200"> | <img src="OpenCV Implementation/Detected Horina final.jpg" width="300" height="200"> |
 
 *The detected images show the system's ability to accurately identify species with bounding boxes and confidence labels.*
 
