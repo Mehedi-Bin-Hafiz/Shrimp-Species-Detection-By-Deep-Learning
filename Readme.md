@@ -192,7 +192,7 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 
 ## 📄 License
 
-This project is available for academic and research purposes. Please cite the original research paper when using this work.
+This project is under the MIT license, available for academic and research purposes. Please cite the original research paper when using this work.
 
 ## 📞 Contact
 
