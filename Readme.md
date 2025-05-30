@@ -1,4 +1,4 @@
-# Bangladeshi Shrimp Species Detection Using Deep Learning
+# A Deep Learning Approach to Recognize Bangladeshi Shrimp Species
 
 A deep learning-powered computer vision system to accurately identify and classify four major Bangladeshi shrimp species using Convolutional Neural Networks (CNN).
 
@@ -202,9 +202,7 @@ For questions, collaborations, or research inquiries, please refer to the resear
 
 **Citation**: If you use this work in your research, please cite:
 ```
-Hasan, M. M., Nishi, J. S., Habib, M. T., Islam, M. M., & Ahmed, F. (2023). 
-A Deep Learning Approach to Recognize Bangladeshi Shrimp Species. 
-14th ICCCNT IEEE Conference, IIT-Delhi, Delhi, India.
+M. M. Hasan, J. S. Nishi, M. T. Habib, M. M. Islam and F. Ahmed, "A Deep Learning Approach to Recognize Bangladeshi Shrimp Species," 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-5, doi: 10.1109/ICCCNT56998.2023.10307364.
 ```
 
 ## 🏆 Achievements
