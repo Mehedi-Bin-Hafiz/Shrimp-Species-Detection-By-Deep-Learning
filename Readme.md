@@ -112,6 +112,19 @@ The system includes:
 - **Lower Range**: (30, 30, 30)
 - **Higher Range**: (170, 200, 200)
 
+## 📸 Detection Results
+
+The OpenCV implementation successfully detects and classifies shrimp species with visual bounding boxes and labels:
+
+| Species | Input Image | Detected Output |
+|---------|-------------|-----------------|
+| **Bagda** | ![Input](OpenCV%20Implementation/bagda.jpg) | ![Detected](OpenCV%20Implementation/Detected%20Bagda%20final.jpg) |
+| **Deshi** | ![Input](OpenCV%20Implementation/deshi.jpg) | ![Detected](OpenCV%20Implementation/Detected%20Deshi%20final.jpg) |
+| **Golda** | ![Input](OpenCV%20Implementation/golda.jpg) | ![Detected](OpenCV%20Implementation/Detected%20Golda%20final.jpg) |
+| **Horina** | ![Input](OpenCV%20Implementation/horina.jpg) | ![Detected](OpenCV%20Implementation/Detected%20Horina%20final.jpg) |
+
+*The detected images show the system's ability to accurately identify species with bounding boxes and confidence labels.*
+
 ## 🚀 Getting Started
 
 ### Prerequisites
